@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Hello+%F0%9F%98%80;I'm+Ayoub+Chahir......;I+am+a+Software+Developer;Nice+to+meet+you+!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thermiee&label=Profile%20views&color=0e75b6&style=flat" alt="thermiee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyoubMS&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS" /> </p>
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
@@ -17,7 +17,7 @@
 - 💻 Fun-fact: "Every programmer is an author."
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyoubMS&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyoubMS&theme=nord&row=1&column=6" alt="AyoubMS" /></a> </p>
 
 <h3 align="left"> Languages and Tools:</h3>
 <p> 
@@ -28,10 +28,10 @@
    </p>
 
    <p >
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoubMS&show_icons=true&locale=en&theme=tokyonight" alt="Thermiee" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoubMS&show_icons=true&locale=en&theme=tokyonight" alt="AyoubMS" />
    </p>
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubMS&theme=tokyonight" alt="thermiee" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubMS&theme=tokyonight" alt="AyoubMS" /></p>
 
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubMS&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thermiee" /></p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubMS&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AyoubMS" /></p>
    
