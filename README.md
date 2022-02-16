@@ -10,14 +10,14 @@
 
 - 👨🏾‍💻 I’m currently learning *JavaScript, React*
 
-- 📫 How to reach me **iamthermiee@gmail.com**
+- 📫 How to reach me **chahayb563@gmail.com**
 
 - ⚡ Fact: "Programming is not easy like Sunday morning, it is silent poetry."
 
 - 💻 Fun-fact: "Every programmer is an author."
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thermiee&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyoubMS&theme=nord&row=1&column=6" alt="thermiee" /></a> </p>
 
 <h3 align="left"> Languages and Tools:</h3>
 <p> 
