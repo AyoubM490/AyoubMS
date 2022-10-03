@@ -8,7 +8,7 @@
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
-- 👨🏾‍💻 I’m currently Job Searching
+- 👨🏾‍💻 I’m currently a Full Stack Engineer at LineupAppQ
 
 - 📫 How to reach me **chahayb563@gmail.com**
 
