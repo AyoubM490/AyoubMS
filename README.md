@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyoubMS&label=Profile%20views&color=0e75b6&style=flat" alt="AyoubMS" /> </p>
 
-<h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
+<h3 align="left">A Full-stack Developer.</h3>
 
 - 👨🏾‍💻 I’m currently a Full Stack Engineer at LineupAppQ
 
