@@ -8,7 +8,7 @@
 
 <h3 align="left">A Full-stack Developer.</h3>
 
-- 👨🏾‍💻 I’m currently a Full Stack Engineer at LineupAppQ
+- 👨🏾‍💻 I’m currently a Full Stack Engineer at MEGA International
 
 - 📫 How to reach me **chahayb563@gmail.com**
 
