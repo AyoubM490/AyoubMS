@@ -35,6 +35,8 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+ <a href="https://angular.io/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a>
    </p>
 
    <p >
